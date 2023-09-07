@@ -36,6 +36,7 @@ export default function FilteredEventsPage() {
         <div className='center'>
           <Button link='/events'>Show All Events</Button>
         </div>
+        <br/>
       </Fragment>
     )
 
@@ -55,6 +56,7 @@ export default function FilteredEventsPage() {
         <div className='center'>
           <Button link='/events'>Show All Events</Button>
         </div>
+        <br/>
       </Fragment>
     )
 

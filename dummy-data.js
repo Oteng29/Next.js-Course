@@ -16,7 +16,7 @@ const DUMMY_EVENTS = [
       "We know: Networking is no fun if you are an introvert person. That's why we came up with this event - it'll be so much easier. Promised!",
     location: "New Wall Street 5, 98765 New Work",
     date: "2021-05-30",
-    image: "https://i.pinimg.com/564x/69/4a/5f/694a5f1e1059488efb82f77ac5d4ca8a.jpg",
+    image: "https://i.pinimg.com/564x/04/f9/1f/04f91f32a8c8806571ba40b1726479e3.jpg",
     isFeatured: true,
   },
   {
@@ -26,7 +26,7 @@ const DUMMY_EVENTS = [
       "You probably need no help with networking in general. But focusing your energy correctly - that is something where most people can improve.",
     location: "My Street 12, 10115 Broke City",
     date: "2022-04-10",
-    image: "https://i.pinimg.com/564x/b4/3c/0b/b43c0b0d65e7500b6f95222ae5021835.jpg",
+    image: "https://i.pinimg.com/564x/ed/f9/f9/edf9f976c981eb5d6991542ed85f5ef1.jpg",
     isFeatured: true,
   },
 ];
