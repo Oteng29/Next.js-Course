@@ -1,5 +1,5 @@
-import React from 'react'
-import { getFeaturedEvents, getAllEvents } from '@/dummy-data'
+import { getFeaturedEvents } from '../helpers/api-util'
+import { getAllEvents } from '@/dummy-data'
 import EventList from '../components/events/eventList';
 
 export default function HomePage() {
@@ -11,3 +11,14 @@ export default function HomePage() {
     </div>
   )
 }
+
+export async function getStaticProps(context){
+  const featuredEvents = await getFeaturedEvents();
+
+  return {
+    props: {
+      events: featuredEvents
+    }
+  }
+}
+
