@@ -31,6 +31,4 @@ async function handler(req, res) {
 
 }
 
-// mongodb+srv://otengmilleny29:<SN2wxLX511Onuux8>@cluster0.qkojddi.mongodb.net/?retryWrites=true&w=majority
-
 export default handler;
