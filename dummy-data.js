@@ -26,7 +26,7 @@ const DUMMY_EVENTS = [
       "You probably need no help with networking in general. But focusing your energy correctly - that is something where most people can improve.",
     location: "My Street 12, 10115 Broke City",
     date: "2022-04-10",
-    image: "https://i.pinimg.com/564x/ed/f9/f9/edf9f976c981eb5d6991542ed85f5ef1.jpg",
+    image: "https://i.pinimg.com/564x/39/98/e3/3998e3020c89f6bc9fbefeb65df422e0.jpg",
     isFeatured: true,
   },
 ];
